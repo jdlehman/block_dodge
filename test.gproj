@@ -1,0 +1,16 @@
+<project>
+ <properties autorotation="0" fps="60" scaleMode="6" iosDevice="0" xcodeVersion="0" packageName="com.lehman.dodge" logicalHeight="480" logicalWidth="320" retinaDisplay="0" assetsOnly="0" orientation="1" architecture="1">
+  <imageScales/>
+ </properties>
+ <file source="berylium_rg.otf"/>
+ <file source="game.lua"/>
+ <file source="scoreboard.lua"/>
+ <file source="pause-drawn-blue.png"/>
+ <file source="GCpauseBut.lua"/>
+ <file source="coin.lua"/>
+ <file source="enemy.lua"/>
+ <file source="player.lua"/>
+ <file source="example2_gfx.txt"/>
+ <file source="example2_gfx.png"/>
+ <file source="main.lua"/>
+</project>
